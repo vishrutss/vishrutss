@@ -1,6 +1,6 @@
-### Hi, I'm Vishrut Sharma 👋 
+<p align="center">### Hi, I'm Vishrut Sharma 👋 
 ### CS Grad Student at Portland State University | Currently working on building Full Stack Applications | Test Automation Engineer | Software Developer
-
+</p>
 <!--
 **vishrutss/vishrutss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
