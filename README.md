@@ -7,7 +7,7 @@
 - 💬 Ask me about **React, Java, RUST**
 - 👨‍💻 My personal portfolio: **[vishrutss.github.io](https://vishrutss.github.io/)**
 - 📫 How to reach me: **vishrutss@gmail.com**
-- 📄 Know about my experiences: **[Resume](https://vishrutss.github.io/static/media/Resume.d2dacbee.pdf)**
+- 📄 Know about my experiences: **[Resume](https://vishrutss.github.io/static/media/Resume.f7658281.pdf)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love cooking, reading, and gaming**
 
