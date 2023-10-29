@@ -2,7 +2,7 @@
 <h2 align="center">CS Grad Student at Portland State University | Currently working on building Full Stack Applications | Test Automation Engineer | Software Developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrutss&label=Profile%20views&color=0e75b6&style=flat" alt="vishrutss" /> </p>
 
-- 🔭 I’m currently working on [Full stack applications](https://github.com/vishrutss/react-chat-app)
+- 🔭 I’m currently working on [Java Game Development](https://github.com/vishrutss/Platformer_Game_Java)
 - 🌱 I’m currently learning **React, Express**
 - 💬 Ask me about **React, Java, RUST**
 - 👨‍💻 My personal portfolio: **[vishrutss.github.io](https://vishrutss.github.io/)**
